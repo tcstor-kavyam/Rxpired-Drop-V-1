@@ -1,0 +1,36 @@
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-card {
+  background: #133070;
+  border: 2px solid #ffffff;
+  padding: 40px 36px;
+  width: 360px;
+  color: #ffffff;
+}
+
+.login-card {
+  margin-bottom: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+

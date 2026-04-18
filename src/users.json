@@ -1,0 +1,82 @@
+{
+    "Olivia Martinez": {
+        "firstName": "Olivia",
+        "lastName": "Martinez",
+        "PIN" : "4821",
+        "meds": [
+            {
+                "name": "Paracetamol 10 mg ",
+                "dose": "1 tablet daily",
+                "quantity": "30 tablets",
+                "expires": "04-12-2026"},
+            {
+                "name": "Metformin 500 mg",
+                "dose": "1 tablet twice daily",
+                "quantity": "60 tablets",
+                "expires": "03-01-2026"
+            }
+
+            
+        ]
+    },
+
+    "Daniel Thompson": {
+        "firstName": "Daniel",
+        "lastName": "Thompson",
+        "PIN" : "7394",
+        "meds": [
+            {
+                "name": "Amoxicillin  20 mg  ",
+                "dose": "1 tablet nightly",
+                "quantity":"30 tablets",
+                "expires": "02-28-2026"},
+            {
+                "name": "Amlodipine 500 mg ",
+                "dose": "1 capsule every 8 hours",
+                "quantity": "21 capsules",
+                "expires": "01-10-2026"
+            }
+        ]
+    },
+
+    "Sophia Patel": {
+        "firstName": "Sophia",
+        "lastName": "Patel",
+        "PIN" : "1158",
+        "meds": [
+            {
+                "name": "Sertraline 50mg  ",
+                "dose": "1 tablet daily",
+                "quantity":"90 tablets",
+                "expires": "06-30-2026"},
+            {
+                "name": "Folic Acid 5mg",
+                "dose": "1 tablet daily",
+                "quantity":"30 tablets",
+                "expires": "05-20-2026"
+            }
+        ]
+    },
+
+
+    "Marcus Johnson": {
+        "firstName": "Marcus",
+        "lastName": "Johnson",
+        
+        "PIN" : "9062",
+        "meds": [
+            {
+                "name": " Levothyroxine 75 mcg  ",
+                "dose": "1 tablet daily (morning)",
+                "quantity":"30 tablets",
+                "expires": "03-18-2026"},
+            {
+                "name": "  Ibuprofen 600mg",
+                "dose": "1 tablet every 6 hours as needed",
+                "quantity":"40 tablets",
+                "expires": "12-05-2025"
+            }
+        ]
+    }
+    
+}
