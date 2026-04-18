@@ -77,7 +77,7 @@ const Login = () => {
 			<p className="login-meta">
 				<a href="#">Forgot password?</a>
 				<span className="sep">•</span>
-				<a href="./create-profile">Create an account</a>
+				<a onClick={() => {goToPage("/create-profile")}}>Create an account</a>
 			</p>
 		</section>
 	</main>
